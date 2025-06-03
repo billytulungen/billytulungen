@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @billytulungen
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning econometrics, industrial organization, and public economics.
-- 💞️ I’m looking to collaborate on public economics research
+- 👀 I’m interested in economics
+- 🌱 I’m currently learning econometrics, regional, and urban economics.
+- 💞️ I’m looking to collaborate on regional and urban economics research
 - 📫 How to reach me
 
 <!---
